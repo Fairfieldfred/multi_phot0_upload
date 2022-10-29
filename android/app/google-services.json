@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645731328274",
+    "project_id": "multi-photo-upload",
+    "storage_bucket": "multi-photo-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645731328274:android:f684baf3db34809e0393cb",
+        "android_client_info": {
+          "package_name": "com.fredblair.multi_phot0_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645731328274-06uu78u1ojfeesardi7m6cajhl3cifsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegJIl7Zevyyu-3VaTPV9qLYSWIXox1bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645731328274-06uu78u1ojfeesardi7m6cajhl3cifsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
